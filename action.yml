@@ -23,4 +23,4 @@ inputs:
     required: false
 runs:
   using: "node12"
-  main: "lib/run.js"
+  main: "dist/index.js"
